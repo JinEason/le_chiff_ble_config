@@ -32,7 +32,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - $$mdi:keyboard-tab$$
-  - {t: A, h: default}
+  - {t: '$$mdi:keyboard-space$$', h: default}
   - $$mdi:volume-off$$
   - {t: '$$mdi:backspace$$', h: '2'}
   - $$mdi:apple-keyboard-control$$
